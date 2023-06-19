@@ -4,7 +4,11 @@
 
 ### Headless Commerce
 
-[Headless 정의](https://macharchitecture.com/): The user experience (what the customer sees) is decoupled from the back-end services, allowing businesses to deliver solutions to a variety of devices in a multi-channel environment, in a cost-effective and efficient manner.
+[Headless 정의](https://macharchitecture.com/
+- The user experience (what the customer sees) is decoupled from the back-end services, allowing businesses to deliver solutions to a variety of devices in a multi-channel environment, in a cost-effective and efficient manner.
+-  Headless systems are API-First services that allow the creation of applications where the user experience is completely decoupled form the back-end.
+- Instead of offering a traditional user interface (presentation layer), headless systems make its content accessible via RESTful or GraphQL APIs that can be consumed by many type of services.
+- 
 
 ## 국내 현황 
 [국내 MACH관련 - 2023.05.10](https://news.nate.com/view/20230510n24882)
