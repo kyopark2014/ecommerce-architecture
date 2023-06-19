@@ -2,6 +2,10 @@
 
 ## D2C
 
+### Headless Commerce
+
+[Headless 정의](https://macharchitecture.com/): The user experience (what the customer sees) is decoupled from the back-end services, allowing businesses to deliver solutions to a variety of devices in a multi-channel environment, in a cost-effective and efficient manner.
+
 ## 국내 현황 
 [국내 MACH관련 - 2023.05.10](https://news.nate.com/view/20230510n24882)
 
